@@ -1,0 +1,30 @@
+/**
+ * The following styles get applied only to the front end of the block.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+ .book-list-frontend{
+
+    .data pre {
+        display: none;
+      }
+      
+    .book-container{
+        padding: 1em 2em;
+        background: #eee;
+        margin-bottom: 2em;
+    }
+
+    h3{
+        font-weight: bold;
+    }
+
+    .section-title{
+        font-weight: bold;
+        font-size: 18px;
+    }
+      
+
+ }
+
